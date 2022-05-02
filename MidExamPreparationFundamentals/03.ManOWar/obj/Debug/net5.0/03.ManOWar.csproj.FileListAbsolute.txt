@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\ref\03.ManOWar.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\bin\Debug\net5.0\03.ManOWar.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\ref\03.ManOWar.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03.ManOWar\obj\Debug\net5.0\03.ManOWar.genruntimeconfig.cache

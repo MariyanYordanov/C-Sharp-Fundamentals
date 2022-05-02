@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\ref\01. Guinea Pig.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\ref\01. Guinea Pig.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.genruntimeconfig.cache

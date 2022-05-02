@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\ref\MidExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\bin\Debug\net5.0\MidExamPreparationFundamentals.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\ref\MidExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\MidExamPreparationFundamentals\obj\Debug\net5.0\MidExamPreparationFundamentals.genruntimeconfig.cache

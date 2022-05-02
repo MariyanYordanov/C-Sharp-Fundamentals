@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache

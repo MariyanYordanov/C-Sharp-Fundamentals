@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\ref\02. Emoji Detector.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\ref\02. Emoji Detector.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.genruntimeconfig.cache

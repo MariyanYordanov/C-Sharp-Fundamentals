@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\ref\03. Heart Delivery.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\ref\03. Heart Delivery.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.genruntimeconfig.cache

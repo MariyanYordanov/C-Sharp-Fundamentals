@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.exe
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.deps.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\ref\02. Shopping List.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\bin\Debug\net5.0\02. Shopping List.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\ref\02. Shopping List.dll
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.pdb
+C:\Users\Goker\source\repos\MidExamPreparationFundamentals\02. Shopping List\obj\Debug\net5.0\02. Shopping List.genruntimeconfig.cache
