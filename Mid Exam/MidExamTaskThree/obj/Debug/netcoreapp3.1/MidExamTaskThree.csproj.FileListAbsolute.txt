@@ -1,0 +1,14 @@
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.exe
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.deps.json
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.runtimeconfig.json
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.dll
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\bin\Debug\netcoreapp3.1\MidExamTaskThree.pdb
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.dll
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.pdb
+C:\Users\Goker\source\repos\FundamentalsC#\MidExamTaskThree\obj\Debug\netcoreapp3.1\MidExamTaskThree.genruntimeconfig.cache

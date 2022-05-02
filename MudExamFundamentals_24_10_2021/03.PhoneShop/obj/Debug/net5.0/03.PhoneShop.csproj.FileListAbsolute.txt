@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.exe
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.deps.json
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.runtimeconfig.json
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.dll
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\ref\03.PhoneShop.dll
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\bin\Debug\net5.0\03.PhoneShop.pdb
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.dll
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\ref\03.PhoneShop.dll
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.pdb
+C:\Users\Goker\source\repos\MudExamFundamentals_24_10_2021\03.PhoneShop\obj\Debug\net5.0\03.PhoneShop.genruntimeconfig.cache
