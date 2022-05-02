@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.exe
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.deps.json
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.runtimeconfig.json
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.dll
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\ref\01.Student Information.Fundamentals.dll
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\bin\Debug\net5.0\01.Student Information.Fundamentals.pdb
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.dll
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\ref\01.Student Information.Fundamentals.dll
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.pdb
+C:\Users\Goker\source\repos\FundamentalsC#\Lab1.01.Student Information\obj\Debug\net5.0\01.Student Information.Fundamentals.genruntimeconfig.cache
