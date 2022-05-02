@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exam.Task.3.Dictionary/1.0.0": {
+        "runtime": {
+          "Exam.Task.3.Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam.Task.3.Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

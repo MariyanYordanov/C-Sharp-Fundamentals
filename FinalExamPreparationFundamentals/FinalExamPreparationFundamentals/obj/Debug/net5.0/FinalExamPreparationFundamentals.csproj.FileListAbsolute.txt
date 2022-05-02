@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\ref\FinalExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\bin\Debug\net5.0\FinalExamPreparationFundamentals.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\ref\FinalExamPreparationFundamentals.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\FinalExamPreparationFundamentals\obj\Debug\net5.0\FinalExamPreparationFundamentals.genruntimeconfig.cache

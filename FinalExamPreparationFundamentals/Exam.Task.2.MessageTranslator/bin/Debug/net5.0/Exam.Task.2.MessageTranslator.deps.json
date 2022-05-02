@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exam.Task.2.MessageTranslator/1.0.0": {
+        "runtime": {
+          "Exam.Task.2.MessageTranslator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam.Task.2.MessageTranslator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

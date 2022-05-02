@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\ref\E.1.1.TheImitationGame.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\bin\Debug\net5.0\E.1.1.TheImitationGame.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\ref\E.1.1.TheImitationGame.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.1.1.TheImitationGame\obj\Debug\net5.0\E.1.1.TheImitationGame.genruntimeconfig.cache

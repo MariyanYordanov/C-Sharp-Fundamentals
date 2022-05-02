@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\ref\E.2.2.DestinationMapper.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\bin\Debug\net5.0\E.2.2.DestinationMapper.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\ref\E.2.2.DestinationMapper.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.2.DestinationMapper\obj\Debug\net5.0\E.2.2.DestinationMapper.genruntimeconfig.cache

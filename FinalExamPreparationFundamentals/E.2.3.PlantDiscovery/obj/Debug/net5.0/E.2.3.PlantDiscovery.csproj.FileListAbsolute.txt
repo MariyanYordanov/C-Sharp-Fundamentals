@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\ref\E.2.3.PlantDiscovery.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\bin\Debug\net5.0\E.2.3.PlantDiscovery.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\ref\E.2.3.PlantDiscovery.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.2.3.PlantDiscovery\obj\Debug\net5.0\E.2.3.PlantDiscovery.genruntimeconfig.cache

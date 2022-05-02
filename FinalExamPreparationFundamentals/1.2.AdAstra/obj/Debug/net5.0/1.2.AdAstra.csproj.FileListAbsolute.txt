@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\ref\1.2.AdAstra.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\bin\Debug\net5.0\1.2.AdAstra.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\ref\1.2.AdAstra.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\1.2.AdAstra\obj\Debug\net5.0\1.2.AdAstra.genruntimeconfig.cache

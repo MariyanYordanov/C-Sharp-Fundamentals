@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\ref\Exam.Task.2.MessageTranslator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\bin\Debug\net5.0\Exam.Task.2.MessageTranslator.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\ref\Exam.Task.2.MessageTranslator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.genruntimeconfig.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.2.MessageTranslator\obj\Debug\net5.0\Exam.Task.2.MessageTranslator.csproj.AssemblyReference.cache

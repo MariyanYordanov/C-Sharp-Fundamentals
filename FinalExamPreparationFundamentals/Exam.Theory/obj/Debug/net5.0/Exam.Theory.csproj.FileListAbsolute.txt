@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\ref\Exam.Theory.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\bin\Debug\net5.0\Exam.Theory.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\ref\Exam.Theory.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Theory\obj\Debug\net5.0\Exam.Theory.genruntimeconfig.cache

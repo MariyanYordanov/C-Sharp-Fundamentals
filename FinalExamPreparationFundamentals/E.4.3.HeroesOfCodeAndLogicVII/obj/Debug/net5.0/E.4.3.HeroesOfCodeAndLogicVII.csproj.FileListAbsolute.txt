@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\ref\E.4.3.HeroesOfCodeAndLogicVII.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\ref\E.4.3.HeroesOfCodeAndLogicVII.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.3.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\E.4.3.HeroesOfCodeAndLogicVII.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\ref\E.4.1.2.02.MirrorWords.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\bin\Debug\net5.0\E.4.1.2.02.MirrorWords.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\ref\E.4.1.2.02.MirrorWords.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.1.2.02.MirrorWords\obj\Debug\net5.0\E.4.1.2.02.MirrorWords.genruntimeconfig.cache

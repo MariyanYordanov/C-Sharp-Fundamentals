@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\ref\Exam.Task.1.StringManipulator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\bin\Debug\net5.0\Exam.Task.1.StringManipulator.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\ref\Exam.Task.1.StringManipulator.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.1.StringManipulator\obj\Debug\net5.0\Exam.Task.1.StringManipulator.genruntimeconfig.cache

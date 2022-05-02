@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\ref\E.4.2.FancyBarcodes.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\bin\Debug\net5.0\E.4.2.FancyBarcodes.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\ref\E.4.2.FancyBarcodes.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E.4.2.FancyBarcodes\obj\Debug\net5.0\E.4.2.FancyBarcodes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\ref\E2.1.WorldTour.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\bin\Debug\net5.0\E2.1.WorldTour.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\ref\E2.1.WorldTour.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\E2.1.WorldTour\obj\Debug\net5.0\E2.1.WorldTour.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E.1.3.03.ThePianist/1.0.0": {
+        "runtime": {
+          "E.1.3.03.ThePianist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E.1.3.03.ThePianist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

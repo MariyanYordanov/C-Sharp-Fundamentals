@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\ref\Exam.Task.3.Dictionary.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\bin\Debug\net5.0\Exam.Task.3.Dictionary.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\ref\Exam.Task.3.Dictionary.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\Exam.Task.3.Dictionary\obj\Debug\net5.0\Exam.Task.3.Dictionary.genruntimeconfig.cache

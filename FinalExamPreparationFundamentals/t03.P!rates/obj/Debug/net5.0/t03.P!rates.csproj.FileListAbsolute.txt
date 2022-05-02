@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.exe
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.deps.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.runtimeconfig.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\ref\t03.P!rates.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\bin\Debug\net5.0\t03.P!rates.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.csproj.AssemblyReference.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.AssemblyInfo.cs
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\ref\t03.P!rates.dll
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.pdb
+C:\Users\Goker\source\repos\FinalExamPreparationFundamentals\t03.P!rates\obj\Debug\net5.0\t03.P!rates.genruntimeconfig.cache
