@@ -1,0 +1,135 @@
+﻿@model AboutViewModel
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<div>
+    <h1>@Model.Info</h1>
+    <h3>@Model.Description</h3>
+</div>
+
+<script>
+    function dragStartHandler(e) {
+        e.dataTransfer.setData("bishop_id", e.target.id);
+    }
+    function dragOverHandler(e) {
+        e.preventDefault();
+        e.dataTransfer.dropEffect = 'move';
+    }
+    function dropHandler(e) {
+        var elementId = e.dataTransfer.getData("bishop_id");
+        e.target.appendChild(document.getElementById(elementId));
+    }
+</script>
+
+<section class="board-wrap">
+    <table class="board"  dropzone="">
+        <tr class="row" id="eighth" dr>
+            <td class="black dropbox" id="H"ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+            <td class="white dropbox" id="G" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+            <td class="black dropbox" id="F" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"><i class="fas fa-chess-bishop" draggable="true" ondragstart="dragStartHandler(event)" id="bishop"></i></td>
+            <td class="white dropbox" id="E" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+            <td class="black dropbox" id="D" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+            <td class="white dropbox" id="C" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"><i class="fas fa-chess-bishop"></i></td>
+            <td class="black dropbox" id="B" ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+            <td class="white dropbox" id="A"  ondragover="dragOverHandler(event)"
+  ondrop="dropHandler(event)"></td>
+        </tr>
+        <tr class="row" id="seventh">
+            <td class="white" id="H"></td>
+            <td class="black" id="G"></td>
+            <td class="white" id="F"></td>
+            <td class="black" id="E"></td>
+            <td class="white" id="D"></td>
+            <td class="black" id="C"></td>
+            <td class="white" id="B"></td>
+            <td class="black" id="A"></td>
+        </tr>
+        <tr class="row" id="sixth">
+            <td class="black" id="H"></td>
+            <td class="white" id="G"></td>
+            <td class="black" id="F"></td>
+            <td class="white" id="E"></td>
+            <td class="black" id="D"></td>
+            <td class="white" id="C"></td>
+            <td class="black" id="B"></td>
+            <td class="white" id="A"></td>
+        </tr>
+        <tr class="row" id="fifth">
+            <td class="white" id="H"></td>
+            <td class="black" id="G"></td>
+            <td class="white" id="F"></td>
+            <td class="black" id="E"></td>
+            <td class="white" id="D"></td>
+            <td class="black" id="C"></td>
+            <td class="white" id="B"></td>
+            <td class="black" id="A"></td>
+        </tr>
+        <tr class="row" id="fourth">
+            <td class="black" id="H"></td>
+            <td class="white" id="G"></td>
+            <td class="black" id="F"></td>
+            <td class="white" id="E"></td>
+            <td class="black" id="D"></td>
+            <td class="white" id="C"></td>
+            <td class="black" id="B"></td>
+            <td class="white" id="A"></td>
+        </tr>
+        <tr class="row" id="third">
+            <td class="white" id="H"></td>
+            <td class="black" id="G"></td>
+            <td class="white" id="F"></td>
+            <td class="black" id="E"></td>
+            <td class="white" id="D"></td>
+            <td class="black" id="C"></td>
+            <td class="white" id="B"></td>
+            <td class="black" id="A"></td>
+        </tr>
+        <tr class="row" id="second">
+            <td class="black" id="H"></td>
+            <td class="white" id="G"></td>
+            <td class="black" id="F"></td>
+            <td class="white" id="E"></td>
+            <td class="black" id="D"></td>
+            <td class="white" id="C"></td>
+            <td class="black" id="B"></td>
+            <td class="white" id="A"></td>
+        </tr>
+        <tr class="row" id="first">
+            <td class="white" id="H"></td>
+            <td class="black" id="G"></td>
+            <td class="white" id="F"></td>
+            <td class="black" id="E"></td>
+            <td class="white" id="D"></td>
+            <td class="black" id="C"></td>
+            <td class="white" id="B"></td>
+            <td class="black" id="A"></td>
+        </tr>
+    </table>
+    <aside>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+        <span class="move">Kfe2</span>
+    </aside>
+</section>

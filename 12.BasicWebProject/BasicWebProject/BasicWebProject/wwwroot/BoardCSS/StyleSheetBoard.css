@@ -1,0 +1,43 @@
+﻿@import url('https://use.fontawesome.com/releases/v6.0.0-beta1/css/all.css');
+
+body {
+    background-color: rgba(30, 50, 80, 0.1);
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+
+.row {
+    display: inline-flex;
+}
+
+aside {
+    
+}
+
+.board {
+    width: 500px;
+    height: 500px;
+}
+
+.black{
+    background-color: saddlebrown;
+}
+
+.white {
+    background-color: sandybrown;
+}
+
+td {
+    width: 100%;
+    height: 100%;
+}
+
+#bishop {
+    width: 90%;
+}
